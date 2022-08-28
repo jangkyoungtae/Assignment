@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "sourceMap": true,
+    "lib": ["dom", "ESNext"],
+    "allowJs": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "noImplicitAny": true
+  },
+  "exclude": ["node_modules"],
+  "include": ["**/*.ts", "**/*.tsx"]
+}
